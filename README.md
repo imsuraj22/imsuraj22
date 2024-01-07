@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Spring Development  
 💬 Ask me about Spring Boot  
-📫 How to reach me: LinkedIn - [Suraj Gaikwad]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/suraj-gaikwad-78013221b/))  
+
 😄 Pronouns: He/His  
 
 ---
