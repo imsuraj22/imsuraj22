@@ -14,8 +14,8 @@
 
 # Hi there! I'm Suraj Gaikwad 👋
 
-🌱 I’m currently learning Spring Development  
-💬 Ask me about Spring Boot 
+🌱 I’m currently learning MERN Stack Development  
+💬 Ask me about MERN Stack and DSA 
 <br>
 😄 Pronouns: He/His  
 📫 How to reach me **surajgaikwad2203@gmail.com**
