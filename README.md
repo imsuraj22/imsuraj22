@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Gaikwad</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsuraj22&label=Profile%20views&color=0e75b6&style=flat" alt="tusharr0305" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsuraj22&label=Profile%20views&color=0e75b6&style=flat" alt="imsuraj22" /> </p>
 
 # Hi there! I'm Suraj Gaikwad 👋
 
