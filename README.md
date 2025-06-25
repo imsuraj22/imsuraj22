@@ -14,11 +14,13 @@
 
 # Hi there! I'm Suraj Gaikwad 👋
 
-🌱 I’m currently learning MERN Stack Development  
-💬 Ask me about MERN Stack and DSA 
-<br>
-😄 Pronouns: He/His  
-📫 How to reach me **surajgaikwad2203@gmail.com**
+👨‍💻 Hi, I'm Suraj Gaikwad, a Software Engineer passionate about backend and full-stack development.  
+🛠️ Tech Stack: Java | Spring Boot | React.js | MySQL | REST APIs  
+🚀 Built internal tools that cut policy reactivation time by 90% using React + Spring Boot.  
+📈 Ex-intern turned full-time engineer — experienced in building scalable systems for financial operations.  
+🌱 Constantly improving in System Design, DSA, and writing clean, efficient code.  
+🤝 Let’s connect and collaborate on impactful projects!
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
